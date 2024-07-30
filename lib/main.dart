@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'UnpluG Flutter Demo'),
+      home: const MyHomePage(title: 'UnpluG Demo Test'),
     );
   }
 }
